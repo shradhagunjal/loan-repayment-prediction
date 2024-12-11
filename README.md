@@ -56,7 +56,7 @@ The data is divided into two main files:
   - Visualizations and statistical summaries.
   - Identification of trends and patterns in the dataset.
 
-### **2. `model.py`**  
+### **2. `model_.py`**  
 - **Purpose:** This Python script contains the model training pipeline. It includes:
   - Class-based structure for loading, preprocessing, training, testing, and predicting with machine learning models.
   - Implementation of at least two machine learning models (e.g., Logistic Regression and Random Forest).
@@ -70,20 +70,4 @@ The data is divided into two main files:
 
 ---
 
-## **Instructions to Run the Code**
 
-### **1. Set up your environment:**
-
-Make sure to have Python 3.7+ installed along with the following dependencies:
-
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- xgboost (optional, for extra model implementation)
-
-You can install these dependencies using `pip`:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
